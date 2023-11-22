@@ -9,9 +9,9 @@ Original file is located at
 
 
 
-!pip install gradio==3.39.0
-!pip install openai==0.27.2
-!pip install ffmeg-python==0.2.0
+#!pip install gradio==3.39.0
+#!pip install openai==0.27.2
+#!pip install ffmeg-python==0.2.0
 
 import gradio as gr
 import openai
